@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007580289401",
+    "project_id": "firesetting-27738",
+    "storage_bucket": "firesetting-27738.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007580289401:android:cda197164603e7a34cf7a8",
+        "android_client_info": {
+          "package_name": "com.nextgen.firesetting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDncYxAcKhe-Zy9rLkfuztrrEStps_33Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
